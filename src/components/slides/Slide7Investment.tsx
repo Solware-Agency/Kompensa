@@ -45,16 +45,44 @@ export const Slide7Investment = () => {
           
           {/* Soporte */}
           <div className="p-8 bg-card rounded-2xl shadow-soft animate-slide-up" style={{ animationDelay: "0.1s" }}>
-            <div className="flex items-center gap-4 mb-4">
+            <div className="flex items-center gap-4 mb-6">
               <div className="p-3 bg-secondary rounded-full">
                 <Shield className="w-6 h-6 text-secondary-foreground" />
               </div>
               <div>
-                <h3 className="text-xl font-bold text-foreground">Soporte Mensual</h3>
-                <p className="text-sm text-muted-foreground">(opcional)</p>
+                <h3 className="text-xl font-bold text-foreground">Soporte Mensual Fijo</h3>
               </div>
             </div>
-            <p className="text-3xl font-bold text-foreground">$200 USD<span className="text-lg font-normal text-muted-foreground">/mes</span></p>
+
+            <div className="mb-6">
+              <p className="text-3xl font-bold text-foreground">$200 USD<span className="text-lg font-normal text-muted-foreground">/mes</span></p>
+            </div>
+
+            <div className="space-y-3">
+              <p className="font-semibold text-foreground mb-3">Incluye:</p>
+              <ul className="space-y-2 text-sm text-muted-foreground">
+                <li className="flex items-start gap-2">
+                  <span className="text-primary mt-0.5">•</span>
+                  <span>Mantenimiento preventivo del sistema</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-primary mt-0.5">•</span>
+                  <span>Corrección de errores y bugs</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-primary mt-0.5">•</span>
+                  <span>Actualizaciones de seguridad</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-primary mt-0.5">•</span>
+                  <span>Soporte técnico prioritario</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-primary mt-0.5">•</span>
+                  <span>Monitoreo del rendimiento del sistema</span>
+                </li>
+              </ul>
+            </div>
           </div>
           
           {/* Vigencia */}
