@@ -14,7 +14,7 @@ export const Slide1Cover = () => {
       />
       <div className="relative z-10 text-center text-primary-foreground">
         <div className="mb-8 inline-block px-6 py-2 bg-background/10 rounded-full backdrop-blur-sm">
-          <p className="text-sm font-medium">Solware Solutions</p>
+          <a href="https://www.solware.agency" target="_blank" rel="noopener noreferrer" className="text-sm font-medium hover:underline transition-all">Solware Agency</a>
         </div>
         
         <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-slide-up">

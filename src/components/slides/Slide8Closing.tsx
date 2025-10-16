@@ -46,7 +46,7 @@ export const Slide8Closing = () => {
           
           <div className="pt-8">
             <p className="text-sm font-semibold mb-2">Gonzalo Ramírez</p>
-            <p className="text-sm opacity-80">Solware Solutions</p>
+            <a href="https://www.solware.agency" target="_blank" rel="noopener noreferrer" className="text-sm opacity-80 hover:opacity-100 hover:underline transition-all">Solware Agency</a>
           </div>
         </div>
       </div>
