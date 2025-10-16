@@ -4,9 +4,9 @@ import { CheckCircle2 } from "lucide-react";
 export const Slide5Timeline = () => {
   const timeline = [
     { week: "Semana 1", task: "Diagnóstico y mapeo del flujo actual" },
-    { week: "Semana 2-3", task: "Desarrollo del sistema" },
-    { week: "Semana 4", task: "Pruebas + Ajustes" },
-    { week: "Entrega final", task: "Capacitación a usuarios" },
+    { week: "Semana 2-4", task: "Desarrollo del sistema" },
+    { week: "Semana 5", task: "Pruebas + Ajustes + Entrega final" },
+    { week: "Semana 6", task: "Capacitación a usuarios" },
   ];
 
   return (
