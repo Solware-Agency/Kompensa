@@ -5,7 +5,7 @@ export const Slide6Includes = () => {
   const includes = [
     { icon: Code, text: "Desarrollo del sistema a medida" },
     { icon: Workflow, text: "Integración con app de monitoreo existente" },
-    { icon: BarChart, text: "Dashboard con control por cliente y emisora" },
+    { icon: BarChart, text: "Dashboard unificado con toda la info" },
     { icon: Bell, text: "Alertas automáticas" },
     { icon: GraduationCap, text: "Capacitación al equipo" },
     { icon: Wrench, text: "Mantenimiento opcional mensual" },
