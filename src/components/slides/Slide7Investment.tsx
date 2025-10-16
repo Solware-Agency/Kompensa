@@ -71,15 +71,11 @@ export const Slide7Investment = () => {
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-primary mt-0.5">•</span>
-                  <span>Actualizaciones de seguridad</span>
+                  <span>Base de datos de cuñas de Playlogger, entre otros clientes</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-primary mt-0.5">•</span>
                   <span>Soporte técnico prioritario</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-primary mt-0.5">•</span>
-                  <span>Monitoreo del rendimiento del sistema</span>
                 </li>
               </ul>
             </div>
