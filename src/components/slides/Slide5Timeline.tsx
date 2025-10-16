@@ -45,12 +45,6 @@ export const Slide5Timeline = () => {
             ))}
           </div>
         </div>
-        
-        <div className="mt-16 text-center p-8 bg-gradient-primary rounded-2xl shadow-primary">
-          <p className="text-2xl md:text-3xl font-bold text-primary-foreground">
-            Total: 3 semanas de ejecución efectiva
-          </p>
-        </div>
       </div>
     </Slide>
   );
